@@ -1,0 +1,29 @@
+{
+	"list":
+	[
+		{
+			"icon":"/Portfolio/resources/images/main/project/chrome.png",
+			"name":"GGV",
+			"type":"Project",
+			"link":"http://kmj950728.cafe24.com/GGV"
+		},
+		{
+			"icon":"/Portfolio/resources/images/main/project/pdf.png",
+			"name":"Manual",
+			"type":"PDF",
+			"link":"/Portfolio/resources/pdf/manual.pdf"
+		},
+		{
+			"icon":"/Portfolio/resources/images/main/project/pdf.png",
+			"name":"Admin_Manual",
+			"type":"PDF",
+			"link":"/Portfolio/resources/pdf/admin_manual.pdf"
+		},
+		{
+			"icon":"/Portfolio/resources/images/main/project/png.png",
+			"name":"ERD",
+			"type":"PNG",
+			"link":"/Portfolio/resources/erd/ERD.png"
+		}
+	]
+}

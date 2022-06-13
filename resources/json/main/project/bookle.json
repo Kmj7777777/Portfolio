@@ -1,0 +1,17 @@
+{
+	"list":
+	[
+		{
+			"icon":"/Portfolio/resources/images/main/project/Bookle.png",
+			"name":"Bookle",
+			"type":"응용 프로그램",
+			"link":"/Portfolio/resources/exe/Bookle.exe"
+		},
+		{
+			"icon":"/Portfolio/resources/images/main/project/ppt.png",
+			"name":"Introduce",
+			"type":"PPSX",
+			"link":"/Portfolio/resources/ppsx/Bookle.ppsx"
+		}
+	]
+}

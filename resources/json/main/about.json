@@ -1,0 +1,51 @@
+{
+	"experience":
+	[
+		{
+			"period":"- KG아이티뱅크(2017.08 ~ 2018.05)",
+			"process":"Java, JSP, Spring Framework, Linux 과정 수료"
+		},
+		{
+			"period":"- Microsoft TIPS Programming(2014.04 ~ 2014.06)",
+			"process":"C, C++, MFC 기초 과정 수료"
+		}
+	],
+	
+	"skills":
+	{
+		"client_side":
+		[
+			{
+				"icon":"/Portfolio/resources/images/main/about/HTML.png"
+			},
+			{
+				"icon":"/Portfolio/resources/images/main/about/CSS.png"
+			},
+			{
+				"icon":"/Portfolio/resources/images/main/about/JavaScript.png"
+			},
+			{
+				"icon":"/Portfolio/resources/images/main/about/jQuery.png"
+			}
+		],
+		
+		"server_side":
+		[
+			{
+				"icon":"/Portfolio/resources/images/main/about/Java.png"
+			},
+			{
+				"icon":"/Portfolio/resources/images/main/about/JSP.png"
+			},
+			{
+				"icon":"/Portfolio/resources/images/main/about/Spring.png"
+			},
+			{
+				"icon":"/Portfolio/resources/images/main/about/MySQL.png"
+			},
+			{
+				"icon":"/Portfolio/resources/images/main/about/Oracle.png"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"list":
+	[
+		{
+			"icon":"/Portfolio/resources/images/main/directory.ico",
+			"name":"GGV",
+			"type":"폴더"
+		},
+		{
+			"icon":"/Portfolio/resources/images/main/directory.ico",
+			"name":"Bookle",
+			"type":"폴더"
+		}
+	]
+}
