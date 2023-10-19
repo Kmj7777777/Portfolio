@@ -1,0 +1,33 @@
+{
+	"list":
+	[
+		{
+			"icon":"/Portfolio/resources/images/main/project/chrome.png",
+			"id":"ggv",
+			"name":"GGV",
+			"type":"Project",
+			"link":"http://..."
+		},
+		{
+			"icon":"/Portfolio/resources/images/main/project/pdf.png",
+			"id":"manual",
+			"name":"Manual",
+			"type":"PDF",
+			"link":"/Portfolio/resources/pdf/ggv/manual.pdf"
+		},
+		{
+			"icon":"/Portfolio/resources/images/main/project/pdf.png",
+			"id":"admin_manual",
+			"name":"Admin Manual",
+			"type":"PDF",
+			"link":"/Portfolio/resources/pdf/ggv/admin_manual.pdf"
+		},
+		{
+			"icon":"/Portfolio/resources/images/main/project/png.png",
+			"id":"erd",
+			"name":"ERD",
+			"type":"PNG",
+			"link":"/Portfolio/resources/erd/ERD.png"
+		}
+	]
+}

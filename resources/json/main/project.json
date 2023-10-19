@@ -1,0 +1,23 @@
+{
+	"list":
+	[
+		{
+			"icon":"/Portfolio/resources/images/main/directory.ico",
+			"id":"sulDamAh",
+			"name":"술담아",
+			"type":"폴더"
+		},
+		{
+			"icon":"/Portfolio/resources/images/main/directory.ico",
+			"id":"ggv",
+			"name":"GGV",
+			"type":"폴더"
+		},
+		{
+			"icon":"/Portfolio/resources/images/main/directory.ico",
+			"id":"bookle",
+			"name":"Bookle",
+			"type":"폴더"
+		}
+	]
+}
